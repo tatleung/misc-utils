@@ -1,0 +1,23 @@
+{
+    "name": "Misc-Utils",
+    "version": "1.0.0",
+    "description": "A library of miscellenous utilies.",
+    "keywords": "utilities, helper functions",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tatleung/misc-utils.git"
+    },
+    "authors": [
+        {
+            "name": "Tat Lueng",
+            "email": "tleung@cydence.com",
+            "url": "https://github.com/tatleung/misc-utils.git",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/tatleung/misc-utils.git",
+    "dependencies": {},
+    "frameworks": "*",
+    "platforms": "*"
+}
